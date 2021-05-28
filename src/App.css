@@ -1,0 +1,34 @@
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.page {
+  position: absolute;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  left: 0;
+  background-color: #1b2029;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+  width: 100%;
+  height: 100%;
+align-items: center;
+}
+
+.formulario {
+  display: flex;
+  flex-direction: column;
+}
+
+.titulo {
+  color: #8880fe;
+}
+
+.imagem {
+  color: #f7fbfd;
+}

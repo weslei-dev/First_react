@@ -1,0 +1,12 @@
+.button-componentes{
+    background: dimgrey;
+    width: 300px;
+    height: 40px;
+    padding: 0 0.5rem;
+    margin-top: 1rem;
+    color: floralwhite;
+    font-size: 1rem;
+    border: 1px solid #1B2029;
+    border-radius: 10px;
+    cursor: pointer;
+}
